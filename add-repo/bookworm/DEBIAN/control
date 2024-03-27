@@ -1,0 +1,7 @@
+Package: myrep-eez
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <your@email.com>
+Depends: apt
+Description: Short description of the package
+ (Long description if needed)
