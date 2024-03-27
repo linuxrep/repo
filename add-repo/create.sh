@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod 755 */DEBIAN
 dpkg-deb --build bookworm
 mv bookworm.deb bookworm-$1.deb
 mv bookworm-$1.deb bookworm/
