@@ -1,1 +1,1 @@
-deb [trusted=yes] https://linux-my-rep.netlify.app/repo-debian/ bookworm extra
+deb [trusted=yes] https://linux-my-rep.netlify.app/repo-debian/ bookworm main

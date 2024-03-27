@@ -1,1 +1,1 @@
-deb [trusted=yes] https://linux-my-rep.netlify.app/repo-debian/ jammy extra
+deb [trusted=yes] https://linux-my-rep.netlify.app/repo-debian/ jammy main
