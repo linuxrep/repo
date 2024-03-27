@@ -34,6 +34,7 @@ Ubuntu (Jammy)
 ```bash
 wget https://github.com/linuxrep/repo/raw/main/add-repo/jammy/jammy-1.deb
 dpkg -i jammy-1.deb
+rm jammy-1.deb
 ```
 
 Ubuntu (Mantic)
