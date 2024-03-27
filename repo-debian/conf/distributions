@@ -1,0 +1,19 @@
+Codename: mantic
+Suite: mantic
+Components: main
+Architectures: armhf arm64
+
+Codename: jammy
+Suite: jammy
+Components: main
+Architectures: armhf arm64
+
+Codename: bookworm
+Suite: bookworm
+Components: main
+Architectures: armhf arm64
+
+Codename: focal
+Suite: focal
+Components: main
+Architectures: armhf arm64

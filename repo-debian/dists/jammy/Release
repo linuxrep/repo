@@ -1,0 +1,26 @@
+Suite: jammy
+Codename: jammy
+Date: Wed, 27 Mar 2024 15:25:35 UTC
+Architectures: armhf arm64
+Components: main
+MD5Sum:
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-armhf/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-armhf/Packages.gz
+ 184f2ee3a3553974993cd1f400dc8f37 51 main/binary-armhf/Release
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-arm64/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-arm64/Packages.gz
+ f39f8ce700efecf08d2a77ab5608e48f 51 main/binary-arm64/Release
+SHA1:
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-armhf/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-armhf/Packages.gz
+ bfa3604519f1a1c08f0affbabf644aa1942a9fe4 51 main/binary-armhf/Release
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-arm64/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-arm64/Packages.gz
+ e7164c1744fcb5255e9aef470dfdc8ebd3de1205 51 main/binary-arm64/Release
+SHA256:
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-armhf/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-armhf/Packages.gz
+ e48d33362e52b9cb74c4595225e8aa3a903e8b8b25a644667fa7f148415e0f6e 51 main/binary-armhf/Release
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-arm64/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-arm64/Packages.gz
+ c6cbc3601f84ea7b7a0d30779085c6ce3822dc87cd502b701124c72ef17196a2 51 main/binary-arm64/Release

@@ -1,0 +1,26 @@
+Suite: mantic
+Codename: mantic
+Date: Wed, 27 Mar 2024 15:25:35 UTC
+Architectures: armhf arm64
+Components: main
+MD5Sum:
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-armhf/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-armhf/Packages.gz
+ 66002bfd8667622afe251096e575bdb1 52 main/binary-armhf/Release
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-arm64/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-arm64/Packages.gz
+ 6f019eb2bd8ebae5260dd1862839b7b2 52 main/binary-arm64/Release
+SHA1:
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-armhf/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-armhf/Packages.gz
+ fcf5fab2469f2d3b51fbc85793eecefceb6cf983 52 main/binary-armhf/Release
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-arm64/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-arm64/Packages.gz
+ 012c2ebf40097cdee774ff8d587c7e3f3802bb7d 52 main/binary-arm64/Release
+SHA256:
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-armhf/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-armhf/Packages.gz
+ 7921d9abb96abf479b43f66f02df56c6f525bbfda26f52972ccc090156d03ecc 52 main/binary-armhf/Release
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-arm64/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-arm64/Packages.gz
+ fbd8155b8f86cf34a9713a8454ed7b2c22ae5dc98da063be891ced9c2c381544 52 main/binary-arm64/Release

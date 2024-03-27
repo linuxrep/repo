@@ -1,0 +1,15 @@
+Package: autogit
+Version: 1.2
+Architecture: all
+Depends: bash
+Maintainer: Kevin Alexander Krefting <kakrefting@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/a/autogit/autogit_1.2_all.deb
+Size: 1516
+SHA256: c0bb88e63b199476d45910baae5d82845ecfea26bd7c9c0db7f9a1713d8dcd2e
+SHA1: 364d5c2b76517ee5d576fc5670e6a1bc59ff57d2
+MD5sum: 027b0fd682de2646d7cd69e1998bc558
+Description: Automated Git Workflow Script
+ This script provides automation for common Git operations, including pushing changes to remote repositories, configuring user information for commits, initializing new Git repositories, and more.
+

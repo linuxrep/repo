@@ -1,0 +1,16 @@
+Package: autogit
+Version: 1.2
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: Kevin Alexander Krefting <kakrefting@gmail.com>
+Description: Automated Git Workflow Script
+ This script provides automation for common Git operations, including pushing changes to remote repositories, configuring user information for commits, initializing new Git repositories, and more.
+Filename: dists/termux/extras/binary-all/autogit.deb
+Size: 1772
+MD5Sum: 9b70c0ed3dbff8df09ffac103142d25d
+SHA1: ff11ae800cd40b603144a70f0024a6c832592591
+SHA256: 8b09af046e9f46a4f8ab7becdd366729b978aeb7b0acaa1a8b40cc26371257a6
+SHA512: e83e00bc4c0bab98a55c69ec5e9a54f4190c8eb8f5b9dfeb5953d7e825a958fbdbcd829743addbbb7ce927c6214e860e927ce46f2d45640cd9ae68c35efdadd5
+

@@ -1,0 +1,26 @@
+Suite: bookworm
+Codename: bookworm
+Date: Wed, 27 Mar 2024 15:25:35 UTC
+Architectures: armhf arm64
+Components: main
+MD5Sum:
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-armhf/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-armhf/Packages.gz
+ c3ccdcd694e72303a48677b39b891b43 54 main/binary-armhf/Release
+ 498110ab627c4d513d1de2a8bc25d34b 619 main/binary-arm64/Packages
+ 1e6684291bd7e1e979926d86869a2e22 434 main/binary-arm64/Packages.gz
+ ee60eaa6c820d64af41c5b7c784bb37e 54 main/binary-arm64/Release
+SHA1:
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-armhf/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-armhf/Packages.gz
+ cc2f7593be45d252366f3fd6101c9dbd203194e4 54 main/binary-armhf/Release
+ 2992f1fafd3598691b4f4df3918cfd4057e9e481 619 main/binary-arm64/Packages
+ 7b8e74d32afbbf9728ccccb79546653f9f31d20a 434 main/binary-arm64/Packages.gz
+ 5604e80f01155f1cea011fb86c3d8e800f590186 54 main/binary-arm64/Release
+SHA256:
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-armhf/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-armhf/Packages.gz
+ 7d2f21d58c36653fbc8a776851561b696d2f59b52bc1e14ba9b755f1d579b445 54 main/binary-armhf/Release
+ 7665afee126e814e9676819b43548c94f81079a89be7338da4ad1d2bbd3cef82 619 main/binary-arm64/Packages
+ 18c227b687485ef87ed94c25777bbe2b3deb716237c44374e4bbf4c751562f87 434 main/binary-arm64/Packages.gz
+ a795b8b929266a13ae95d36ee4648545aa4a64a14ae4a9214ede4e57a80ae681 54 main/binary-arm64/Release
