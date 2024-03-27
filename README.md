@@ -46,7 +46,7 @@ rm mantic-1.deb
 
 Termux
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-2.deb
 dpkg -i termux-1.deb
 rm termux-1.deb
 ```
