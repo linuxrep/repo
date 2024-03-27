@@ -1,7 +1,10 @@
-Package: myrep-eez
-Version: 1.0
+Package: myrep
+Version: 1.0-2
+Section: utils
+Priority: optional
 Architecture: all
-Maintainer: Your Name <your@email.com>
 Depends: apt
-Description: Short description of the package
- (Long description if needed)
+Maintainer: Kevin Alexander Krefting <deine.email@beispiel.com>
+Description: Ein Hilfsskript für proot und proot-distro
+ Dieses Paket stellt ein Tool bereit, das auf proot und proot-distro aufbaut,
+ um eine verbesserte Funktionalität für spezifische Anwendungsfälle anzubieten.

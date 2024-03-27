@@ -18,37 +18,37 @@ copy the command for your system and you add the repo fast
 
 Debian (Bookworm)
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/bookworm/bookworm-1.deb
-dpkg -i bookworm-1.deb
-rm bookworm-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/bookworm/bookworm-3.deb
+dpkg -i bookworm-3.deb
+rm bookworm-3.deb
 ```
 
 Ubuntu (Focal)
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/focal/focal-1.deb
-dpkg -i focal-1.deb
-rm focal-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/focal/focal-3.deb
+dpkg -i focal-3.deb
+rm focal-3.deb
 ```
 
 Ubuntu (Jammy)
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/jammy/jammy-1.deb
-dpkg -i jammy-1.deb
-rm jammy-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/jammy/jammy-3.deb
+dpkg -i jammy-3.deb
+rm jammy-3.deb
 ```
 
 Ubuntu (Mantic)
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/mantic/mantic-1.deb
-dpkg -i mantic-1.deb
-rm mantic-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/mantic/mantic-3.deb
+dpkg -i mantic-3.deb
+rm mantic-3.deb
 ```
 
 Termux
 ```bash
-wget https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-2.deb
-dpkg -i termux-1.deb
-rm termux-1.deb
+wget https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-3.deb
+dpkg -i termux-3.deb
+rm termux-3.deb
 ```
 
 # News
