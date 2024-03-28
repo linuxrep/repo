@@ -46,9 +46,9 @@ rm mantic-3.deb
 
 Termux
 ```bash
-curl -OL https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-3.deb
-dpkg -i termux-3.deb
-rm termux-3.deb
+curl -OL https://github.com/linuxrep/repo/raw/main/add-repo/termux/termux-4.deb
+dpkg -i termux-4.deb
+rm termux-4.deb
 ```
 
 # News
