@@ -1,3 +1,16 @@
+Package: aircrack-ng
+Version: 1.7
+Maintainer: alec ktef <=ej@jdk>
+Depends: proot-distro, sqlite, zip, tar
+Architecture: arm
+Description: Jekd
+Filename: dists/termux/extras/binary-arm/aircrack-ng.deb
+Size: 377472
+MD5Sum: b1a68b51e9e845df56d48203d089d670
+SHA1: 5f0ce5ff30ec8ab98418157c66ebf810e6fa9ba8
+SHA256: 49a592adb5b7f5e4d8719fa4e8d362faca5be763bab941a87fbdeb541215afe6
+SHA512: f1259d5fd3f6c62008f4770e05bf5edbd45d52243f165d806a6d0aa49dfba5523a68713a880c3527f27b39947b8f21a183b8ebe87c7589b91f81c0fa3c8c2f25
+
 Package: proot-tool
 Version: 1.7
 Maintainer: alec ktef <=ej@jdk>
