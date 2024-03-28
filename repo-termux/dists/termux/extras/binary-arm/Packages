@@ -1,13 +1,13 @@
 Package: proot-tool
-Version: 1.2
+Version: 1.4
 Maintainer: alec ktef <=ej@jdk>
 Depends: proot-distro, sqlite
 Architecture: arm
 Description: Jekd
 Filename: dists/termux/extras/binary-arm/proot-tool.deb
 Size: 2680
-MD5Sum: 6606552b2d9a8b1b418739db0a0a63b6
-SHA1: 5793e37d18430528c23e55ced0020503ee0f2cab
-SHA256: bfb37d274277f2e9446859e05b70f06ec76e4a516b65f8ed8f42112d7fbc7481
-SHA512: 5e83a2fa68001c422285ac7ecb530a19ad04b9f05ec9a36020171a53951e127b643069eb2bc3a66b35cb194a5bd1df29a16984697405ec27c427b8ce2c966590
+MD5Sum: f9fb32254def1593a0a77ada7ec6d475
+SHA1: 7afcacf3333693701ed8eddb118cbc2c5e9b5d43
+SHA256: 1a148ea14b39af0dc82af271803b0f0ee8c886fc47d6e10ff9fd618f2d0dfa7f
+SHA512: 46e669af395b9273ce83ca5fec61ce5e3a4adfded559eac64632f7783e1f937a0a1b8e9253f4acc255a6ebd5d4a7c7171e3610ce1141afb4e20ad963d4fa68f6
 
