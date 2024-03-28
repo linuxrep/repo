@@ -14,20 +14,3 @@ SHA1: ff11ae800cd40b603144a70f0024a6c832592591
 SHA256: 8b09af046e9f46a4f8ab7becdd366729b978aeb7b0acaa1a8b40cc26371257a6
 SHA512: e83e00bc4c0bab98a55c69ec5e9a54f4190c8eb8f5b9dfeb5953d7e825a958fbdbcd829743addbbb7ce927c6214e860e927ce46f2d45640cd9ae68c35efdadd5
 
-Package: proot-tool
-Version: 1.0-2
-Section: utils
-Priority: optional
-Architecture: all
-Depends: proot, proot-distro
-Maintainer: Kevin Alexander Krefting <deine.email@beispiel.com>
-Description: Ein Hilfsskript für proot und proot-distro
- Dieses Paket stellt ein Tool bereit, das auf proot und proot-distro aufbaut,
- um eine verbesserte Funktionalität für spezifische Anwendungsfälle anzubieten.
-Filename: dists/termux/extras/binary-all/proot-tools.deb
-Size: 1804
-MD5Sum: f261586ccc54f3584111019c87b0d087
-SHA1: f7e03e35578598ab64f5835bf8e9bf3391606051
-SHA256: 95d6235d2e7a2c0087ab683b9af47829067cfbba9b6b45bff76f25b9893349aa
-SHA512: 279173817c384faa0c839dbdee7d002e15218c618eadd27702bc08e7665bd77ba7f0c7a481e441b49f28be722f1ef6bdff49705af3dfd6a4e3140ddf0fdb947d
-

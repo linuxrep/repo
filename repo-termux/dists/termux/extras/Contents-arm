@@ -1,0 +1,4 @@
+data/data/com.termux/files/usr/bin/proot-tool                                    proot-tool
+data/data/com.termux/files/usr/bin/pt                                            proot-tool
+data/data/com.termux/files/usr/share/proot-tool/db/fill.sh                       proot-tool
+data/data/com.termux/files/usr/share/proot-tool/db/proot.db                      proot-tool
