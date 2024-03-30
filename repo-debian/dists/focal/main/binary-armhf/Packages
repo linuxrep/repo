@@ -13,3 +13,17 @@ MD5sum: 027b0fd682de2646d7cd69e1998bc558
 Description: Automated Git Workflow Script
  This script provides automation for common Git operations, including pushing changes to remote repositories, configuring user information for commits, initializing new Git repositories, and more.
 
+Package: coc-nvim
+Version: 1.0-2
+Architecture: all
+Depends: neovim
+Maintainer: Kevin Alexander Krefting <deine.email@beispiel.com>
+Priority: important
+Section: utils
+Filename: pool/main/c/coc-nvim/coc-nvim_1.0-2_all.deb
+Size: 1860
+SHA256: 5273a4a12b2be31a857e2d20f0d4d210cc49acbb78f8aa0a8f8d6ba269942a8f
+SHA1: cbd657613cd0ab26f77f56925f161d694aa1c877
+MD5sum: 3a9792e1ac66450f68ff7991289bec42
+Description: Install the best IDE Experience in Linux. coc-nvim setup full in few Minutes
+
