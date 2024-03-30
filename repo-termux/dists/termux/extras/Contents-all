@@ -1,1 +1,4 @@
 data/data/com.termux/files/usr/bin/autogit                                       autogit
+data/data/com.termux/files/usr/bin/coc-nvim.sh                                   coc-nvim
+data/data/com.termux/files/usr/share/coc-nvim/coc-settings.json                  coc-nvim
+data/data/com.termux/files/usr/share/coc-nvim/init.vim                           coc-nvim
