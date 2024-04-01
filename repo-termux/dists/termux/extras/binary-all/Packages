@@ -29,3 +29,33 @@ SHA1: 35462fa3735bf967bf47e3c395679b41d994adc2
 SHA256: 8936e8acc5d8494b29067efe10fdd15c70398aa6b0cb450d9c2430b1ebe3ce00
 SHA512: 9b5cb8597161df2c9a72cb7a1f7f33134043d8bb9640883b7be770e6f19192e54c76a8b48940f7e4902005c3a747f3504f4be165a2321f5ccd5a4e62031423ef
 
+Package: flux
+Version: 1.2
+Section: utils
+Priority: important
+Architecture: all
+Depends: zip, tar, bash, dpkg
+Maintainer: alex krefting <kakrefting@gmail.com>
+Description: An Builder for my Package Format (Pacman, APT)
+Filename: dists/termux/extras/binary-all/flux.deb
+Size: 1984
+MD5Sum: 8a82d8ad452d49ab700a5d523ad95142
+SHA1: 61b1f0d3efcc48e30853f15180870adb538dadb8
+SHA256: a856543591284e34260995e7eff3e603980c63f5688e7c9db4dc6eb7e60b98ac
+SHA512: adcdf0ecfc061cba8a82bb8e4f7a26ba5fbcc2d95a09f90d5f6ea2dbcf43bd0ab6e074780f55a3b07670b6335b2e731e605c8a6b7b8c681bcdc1542d54f09956
+
+Package: proot-repo
+Version: 1.0
+Section: repo
+Priority: important
+Architecture: all
+Depends: apt
+Maintainer: alex krefting <kakrefting@gmail.com>
+Description: Add the proot-repo to your device
+Filename: dists/termux/extras/binary-all/proot-repo.deb
+Size: 920
+MD5Sum: 9db0db5308ae0d8fafaf21cddc2c95db
+SHA1: 729edebafe506cd17dff82438826560925512678
+SHA256: c9ae582876fc4c0db16cbd46da7665d91125416edff7dd952fd07c8e9da79048
+SHA512: f12ff47f76b0fb09d4f6dfcc86fca6370320aa8699feda15e1ee43cf6813a4f4695805d9ca40905ccbf9301478c6e8876710909481ca88f671407f57cbe4043e
+
